@@ -14,6 +14,11 @@ Imprima a mensagem "PROD" e a variável PROD conforme exemplo abaixo, com um esp
 
 ## Exemplos de Entrada
 
+| Entradas  | Saídas |
+| ------------- | ------------- |
+| 3ㅤㅤㅤ9 | SOMA = 27  |
+| -30ㅤㅤㅤ10 | SOMA = -300  |
+| 0ㅤㅤㅤ9 | SOMA = 0  |
 #### Exemplo 01:
 
 - Entrada:
