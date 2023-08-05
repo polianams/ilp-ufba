@@ -1,59 +1,22 @@
-# Soma Simples
+# Soma Simples 📦
 
-## Descrição do Problema
+## Descrição do Problema 📝
 
 Leia dois valores inteiros, no caso para variáveis A e B. A seguir, calcule a soma entre elas e atribua à variável SOMA. A seguir escrever o valor desta variável.
 
-## Entrada
+## Entrada 📥
 
 O arquivo de entrada contém 2 valores inteiros.
 
-## Soma
+## Saída 📥
 
 Imprima a mensagem "SOMA" com todas as letras maiúsculas, com um espaço em branco antes e depois da igualdade seguido pelo valor correspondente à soma de A e B. Como todos os problemas, não esqueça de imprimir o fim de linha após o resultado, caso contrário, você receberá "Presentation Error".
 
-## Exemplos de Entrada
+## Exemplos de Entrada 🚀
 
-#### Exemplo 01:
+| Entradas  | Saídas |
+| ------------- | ------------- |
+| 30ㅤㅤㅤ10 | SOMA = 40  |
+| -30ㅤㅤㅤ10 | SOMA = -20  |
+| 0ㅤㅤㅤ0 | SOMA = 0  |
 
-- Entrada:
-
-30
-10
-
-- Saída:
-
-SOMA = 40
-
-Exemplo 02:
-
-- Entrada:
-
--30
-10
-
-- Saída:
-
-SOMA = -20
-
-#### Exemplo 02:
-
-- Entrada:
-
--30
-10
-
-- Saída:
-
-SOMA = -20
-
-#### Exemplo 03:
-
-- Entrada:
-
-0
-0
-
-- Saída:
-
-SOMA = 0
