@@ -24,3 +24,7 @@ Seu programa deve imprimir apenas uma linha, contendo apenas um inteiro, indican
 | ------------- | ------------- |
 | 7000ㅤㅤㅤ100 | 0 |
 | 918ㅤㅤㅤ76 | 6 |
+
+## Nível do Problema ⚙️
+
+Nível 1
