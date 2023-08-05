@@ -2,7 +2,7 @@
 
 ## Descrição do repositório
 
-Bem-vindo ao repositório de exercícios de lógica de programação usando c++. Neste repositório, você encontrará os exercícios propostos durante o curso de lógica de programação, bem como as soluções desenvolvidas em C++.
+Bem-vindo ao repositório de exercícios de lógica de programação usando c++. Neste repositório, você encontrará os exercícios propostos durante o curso de MATA37 - Introdução a Lógica de Programação (ILP), ministrada pelo Profº Danilo Coimbra, no semestre 2018.02, bem como as soluções desenvolvidas em C++.
 
 ## Objetivo
 
@@ -12,6 +12,6 @@ O objetivo deste repositório é servir como um espaço para a prática e aprend
 
 Se você deseja contribuir para este repositório e enriquecer a experiência de aprendizado de todos, você pode seguir os seguintes passos:
 
-1. **Fork do Repositório**: Clique no botão "Fork" no canto superior direito desta página para criar uma cópia do repositório em sua própria conta.
+- Fork do Repositório: Clique no botão "Fork" no canto superior direito desta página para criar uma cópia do repositório em sua própria conta.
 
-2. **Clone o Repositório**: Clone o repositório forkado para o seu ambiente de desenvolvimento local.
+- Clone o Repositório: Clone o repositório forkado para o seu ambiente de desenvolvimento local.
