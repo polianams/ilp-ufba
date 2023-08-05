@@ -20,3 +20,6 @@ Imprima a mensagem "PROD" e a variável PROD conforme exemplo abaixo, com um esp
 | -30ㅤㅤ10 | SOMA = -300  |
 | 0ㅤㅤ9 | SOMA = 0  |
 
+## Nível do Problema ⚙️
+
+Nível 1

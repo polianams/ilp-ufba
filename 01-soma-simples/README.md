@@ -20,3 +20,6 @@ Imprima a mensagem "SOMA" com todas as letras maiúsculas, com um espaço em bra
 | -30ㅤㅤㅤ10 | SOMA = -20  |
 | 0ㅤㅤㅤ0 | SOMA = 0  |
 
+## Nível do Problema ⚙️
+
+Iniciante - Nível 1
