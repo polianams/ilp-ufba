@@ -27,4 +27,4 @@ Seu programa deve imprimir apenas uma linha, contendo apenas um inteiro, indican
 
 ## Nível do Problema ⚙️
 
-Nível 1
+Iniciante - Nível 1
