@@ -21,8 +21,8 @@ O arquivo de saída deverá conter 5 linhas de dados. Cada linha corresponde a u
 
 | Entradas  | Saídas |
 | ------------- | ------------- |
-| 3.0ㅤㅤㅤ4.0ㅤㅤㅤ5.2 | TRIANGULO: 7.800ㅤㅤㅤCIRCULO: 84.949ㅤㅤㅤTRAPEZIO: 18.200ㅤㅤㅤQUADRADO: 16.000ㅤㅤㅤRETANGULO: 12.000 |
-| 12.7ㅤㅤㅤ10.4ㅤㅤㅤ15.2 | TRIANGULO: 96.520ㅤㅤㅤCIRCULO: 725.833ㅤㅤㅤTRAPEZIO: 175.560ㅤㅤㅤQUADRADO: 108.160ㅤㅤㅤRETANGULO: 132.080 |
+| 3.0ㅤㅤ4.0ㅤㅤ5.2 | TRIANGULO: 7.800ㅤㅤCIRCULO: 84.949ㅤㅤTRAPEZIO: 18.200ㅤㅤQUADRADO: 16.000ㅤㅤRETANGULO: 12.000 |
+| 12.7ㅤㅤ10.4ㅤㅤ15.2 | TRIANGULO: 96.520ㅤㅤCIRCULO: 725.833ㅤㅤTRAPEZIO: 175.560ㅤㅤQUADRADO: 108.160ㅤㅤRETANGULO: 132.080 |
 
 ## Nível do Problema ⚙️
 
