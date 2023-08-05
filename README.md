@@ -2,7 +2,7 @@
 
 ## Descrição do repositório
 
-Bem-vindo ao repositório de exercícios de lógica de programação da Universidade Federal da Bahia (UFBA). Neste repositório, você encontrará os exercícios propostos durante o curso de lógica de programação, bem como as soluções desenvolvidas em C++.
+Bem-vindo ao repositório de exercícios de lógica de programação usando c++. Neste repositório, você encontrará os exercícios propostos durante o curso de lógica de programação, bem como as soluções desenvolvidas em C++.
 
 ## Objetivo
 
