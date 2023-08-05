@@ -4,7 +4,7 @@
 
 Bem-vindo ao repositório de exercícios de lógica de programação usando c++. Neste repositório, você encontrará os exercícios propostos durante o curso de MATA37 - Introdução a Lógica de Programação (ILP), ministrada pelo Profº Danilo Coimbra, no semestre 2018.02, bem como as soluções desenvolvidas em C++.
 
-## Objetivo 🚀
+## Objetivo 🎯
 
 O objetivo deste repositório é servir como um espaço para a prática e aprendizado de lógica de programação, especialmente utilizando a linguagem C++. Aqui, você encontrará uma coleção de exercícios que abrangem diversos tópicos, desde os conceitos fundamentais até desafios mais avançados. Sinta-se à vontade para explorar, estudar e contribuir!
 
