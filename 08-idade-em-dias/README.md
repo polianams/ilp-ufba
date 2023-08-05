@@ -18,9 +18,15 @@ Imprima a saída conforme exemplo fornecido.
 
 | Entradas  | Saídas |
 | ------------- | ------------- |
-| 400 | 1 ano(s)ㅤㅤㅤㅤ1 mes(es)ㅤㅤㅤㅤ5 dia(s) |
-| 800 | 2 ano(s)ㅤㅤㅤㅤ2 mes(es)ㅤㅤㅤㅤ10 dia(s) |
-| 30 | 0 ano(s)ㅤㅤㅤㅤ1 mes(es)ㅤㅤㅤㅤ0 dia(s) |
+| 400 | 1 ano(s)
+| | 1 mes(es) 
+| |5 dia(s) |
+| 800 | 2 ano(s) |
+| | 2 mes(es) |
+| | 10 dia(s) |
+| 30 | 0 ano(s) |
+| | 1 mes(es) |
+| | 0 dia(s) |
 
 ## Nível do Problema ⚙️
 
