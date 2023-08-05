@@ -14,46 +14,8 @@ Imprima a mensagem "SOMA" com todas as letras maiúsculas, com um espaço em bra
 
 ## Exemplos de Entrada
 
-#### Exemplo 01:
-
-- Entrada:
-
-30
-10
-
-- Saída:
-
-SOMA = 40
-
-Exemplo 02:
-
-- Entrada:
-
--30
-10
-
-- Saída:
-
-SOMA = -20
-
-#### Exemplo 02:
-
-- Entrada:
-
--30
-10
-
-- Saída:
-
-SOMA = -20
-
-#### Exemplo 03:
-
-- Entrada:
-
-0
-0
-
-- Saída:
-
-SOMA = 0
+| Entradas  | Saídas |
+| ------------- | ------------- |
+| 30    10  | SOMA = 40  |
+| -30   10  | SOMA = -20  |
+| 0      0  | SOMA = 0  |
