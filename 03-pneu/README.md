@@ -21,3 +21,7 @@ Seu programa deve imprimir uma única linha, contendo a diferença entre a press
 | 30ㅤㅤㅤ18 | 12 |
 | 27ㅤㅤㅤ27 | 0 |
 | 27ㅤㅤㅤ30 | -3 |
+
+## Nível do Problema ⚙️
+
+Nível 1
