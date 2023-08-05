@@ -18,7 +18,7 @@ Imprima o total que o funcionário deverá receber, conforme exemplo fornecido.
 | ------------- | ------------- |
 | JOAOㅤㅤㅤ700.00ㅤㅤㅤ1230.30 | TOTAL = R$ 684.54 |
 | PEDROㅤㅤㅤ700.00ㅤㅤㅤ0.00 | TOTAL = R$ 700.00 |
-| MANGOJATAㅤㅤㅤ1700.00ㅤㅤㅤ1230.00 | TOTAL = R$ 1884.58 |
+| MARIAㅤㅤㅤ1700.00ㅤㅤㅤ1230.00 | TOTAL = R$ 1884.58 |
 
 ## Nível do Problema ⚙️
 
