@@ -19,3 +19,7 @@ Imprima a mensagem "MEDIA" e a média do aluno conforme exemplo abaixo, com 1 d�
 | 5.0ㅤㅤㅤ6.0ㅤㅤㅤ7.0 | MEDIA = 6.3 |
 | 5.0ㅤㅤㅤ10.0ㅤㅤㅤ10.0 | MEDIA = 9.0 |
 | 10.0ㅤㅤㅤ10.0ㅤㅤㅤ5.0 | MEDIA = 7.5 |
+
+## Nível do Problema ⚙️
+
+Nível 1
