@@ -16,6 +16,6 @@ Imprima a mensagem "SOMA" com todas as letras maiúsculas, com um espaço em bra
 
 | Entradas  | Saídas |
 | ------------- | ------------- |
-| 30⠀⠀⠀⠀⠀⠀10  | SOMA = 40  |
-| -30⠀⠀⠀⠀⠀⠀10  | SOMA = -20  |
-| 0⠀⠀⠀⠀⠀⠀0  | SOMA = 0  |
+|ㅤ 30ㅤ10  | SOMA = 40  |
+|ㅤ-30ㅤ10  | SOMA = -20  |
+| ㅤ 0ㅤ ㅤ0  | SOMA = 0  |
