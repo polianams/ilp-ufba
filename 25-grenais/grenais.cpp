@@ -40,18 +40,15 @@ int main (){
   cout << "Gremio:" << vg << endl;
   cout << "Empates:" << e << endl;
 
-  if(vi>vg)
-  {
+  if(vi>vg) {
   cout << "Inter venceu mais" << endl;
   }
 
-  else if(vi<vg)
-  {
+  else if(vi<vg) {
   cout << "Gremio venceu mais" << endl;
   }
 
-  else
-  {
+  else {
   cout << "Nao houve vencedor" << endl;
   }
 
