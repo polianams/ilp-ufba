@@ -22,4 +22,4 @@ Imprima a mensagem "SOMA" com todas as letras maiúsculas, com um espaço em bra
 
 ## Nível do Problema ⚙️
 
-Nível 1
+Iniciante - Nível 1
